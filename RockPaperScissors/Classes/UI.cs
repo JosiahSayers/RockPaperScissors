@@ -16,6 +16,7 @@ namespace RockPaperScissors.Classes
             int userMove = 0;
             int compMove = 0;
             string winner = "";
+            string userInput;
 
 
             while (true)
@@ -30,7 +31,8 @@ namespace RockPaperScissors.Classes
 
                 Console.WriteLine("1. Rock\n2. Paper\n3. Scissors");
                 Console.Write("\nChoose your move:");
-                userMove = int.Parse(Console.ReadLine());
+                userInput = Console.ReadLine();
+                ParseMove(userInput);
 
                 Random rand = new Random();
                 compMove = rand.Next(1, 4);
@@ -53,8 +55,26 @@ namespace RockPaperScissors.Classes
                 Console.Clear();
                 gamesPlayed++;
             }
+
+            void ParseMove(string input)
+            {
+                try
+                {
+                    userMove = int.Parse(input);
+                    if (userMove < 1 || userMove > 3)
+                    {
+                        Console.WriteLine("Please enter a valid choice (1-3): ");
+                        userInput = Console.ReadLine();
+                        ParseMove(userInput);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Please enter a valid choice (1-3): ");
+                    userInput = Console.ReadLine();
+                    ParseMove(userInput);
+                }
+            }
         }
-
-
     }
 }
