@@ -1,0 +1,11 @@
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Release\netcoreapp2.1\RockPaperScissors.deps.json
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Release\netcoreapp2.1\RockPaperScissors.runtimeconfig.json
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Release\netcoreapp2.1\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Release\netcoreapp2.1\RockPaperScissors.dll
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Release\netcoreapp2.1\RockPaperScissors.pdb
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Release\netcoreapp2.1\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Release\netcoreapp2.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Release\netcoreapp2.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Release\netcoreapp2.1\RockPaperScissors.AssemblyInfo.cs
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Release\netcoreapp2.1\RockPaperScissors.dll
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Release\netcoreapp2.1\RockPaperScissors.pdb

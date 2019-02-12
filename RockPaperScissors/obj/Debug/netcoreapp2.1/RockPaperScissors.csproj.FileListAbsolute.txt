@@ -9,3 +9,14 @@ C:\Users\josiahs\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\netc
 C:\Users\josiahs\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.AssemblyInfo.cs
 C:\Users\josiahs\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.dll
 C:\Users\josiahs\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.pdb
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.dll
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.pdb
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.1\RockPaperScissors.deps.json
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.1\RockPaperScissors.runtimeconfig.json
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.1\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.1\RockPaperScissors.dll
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.1\RockPaperScissors.pdb
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\josiahs\code\Side Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.1\RockPaperScissors.AssemblyInfo.cs

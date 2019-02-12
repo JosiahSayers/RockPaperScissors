@@ -11,11 +11,10 @@ namespace RockPaperScissors.Classes
             int playerTally = 0;
             int gamesPlayed = 0;
             int tieTally = 0;
-            string userMoveName = "";
-            string compMoveNAme = "";
             int userMove = 0;
             int compMove = 0;
             string winner = "";
+            string userInput;
 
 
             while (true)
@@ -30,7 +29,10 @@ namespace RockPaperScissors.Classes
 
                 Console.WriteLine("1. Rock\n2. Paper\n3. Scissors");
                 Console.Write("\nChoose your move:");
-                userMove = int.Parse(Console.ReadLine());
+                userInput = Console.ReadLine();
+
+                // Parse input to see if it is a valid move. If an exception is caught the method will ask for new input and call itself.
+                ParseInput(userInput);
 
                 Random rand = new Random();
                 compMove = rand.Next(1, 4);
@@ -52,6 +54,26 @@ namespace RockPaperScissors.Classes
                 }
                 Console.Clear();
                 gamesPlayed++;
+            }
+
+            void ParseInput(string input)
+            {
+                try
+                {
+                    userMove = int.Parse(input);
+                    if(userMove < 1 || userMove > 3)
+                    {
+                        Console.WriteLine("Please enter a valid choice (1-3): ");
+                        userInput = Console.ReadLine();
+                        ParseInput(userInput);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Please enter a valid choice (1-3): ");
+                    userInput = Console.ReadLine();
+                    ParseInput(userInput);
+                }
             }
         }
 
