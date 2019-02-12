@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josiahs\\code\\Side Projects\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.csproj",
+      "projectUniqueName": "C:\\Users\\josiahs\\source\\repos\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.csproj",
       "projectName": "RockPaperScissors",
-      "projectPath": "C:\\Users\\josiahs\\code\\Side Projects\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.csproj",
+      "projectPath": "C:\\Users\\josiahs\\source\\repos\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.csproj",
       "packagesPath": "C:\\Users\\josiahs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josiahs\\code\\Side Projects\\RockPaperScissors\\RockPaperScissors\\obj\\",
+      "outputPath": "C:\\Users\\josiahs\\source\\repos\\RockPaperScissors\\RockPaperScissors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
